@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 **Connect the Hardware**:
-   - Connect the TB6600 driver to the Arduino Mega:
+   - Connect the TB6600 driver to the Arduino Mega :
      - **ENA-** → Pin 4
      - **ENA+** → 5V
      - **DIR-** → Pin 3
@@ -13,7 +13,7 @@
    - Supply a suitable power source to the TB6600 driver (VCC and GND).
 
 **Configure the TB6600 DIP Switches**:
-   - Set the DIP switches on the TB6600 driver as follows:
+   - Set the DIP switches on the TB6600 driver as follows :
      - S1 : OFF
      - S2 : OFF
      - S3 : ON
