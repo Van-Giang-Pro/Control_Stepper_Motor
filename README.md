@@ -22,7 +22,7 @@
      - S6 : ON
 
 ## Identifying Nema 17 Motor Coil Pairs (A+, A-, B+, B-)
-- The Nema 17 motor has two independent coils, each with two ends (A+, A- and B+, B-).
+- The Nema 17 motor has two independent coils, each with two ends (A+ and A- or B+ and B-).
 - Measure the resistance between each pair of wires :
-  - If the resistance between two wires is low (typically a few Ohms, around 2-5Ω), those wires belong to the same coil (A+ and A-, or B+ and B-).
-  - If there is no resistance (open circuit, infinite resistance), those wires belong to different coils.
+  - If the resistance between two wires is low, around 2-5Ω, those wires belong to the same coil A+ and A- or B+ and B-.
+  - If there is no resistance for example open circuit, infinite resistance, those wires belong to different coils.
