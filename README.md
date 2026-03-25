@@ -9,9 +9,6 @@
      - **DIR+** → 5V
      - **PUL-** → Pin 2
      - **PUL+** → 5V
-   - Connect the Nema 17 motor to the TB6600 driver (A+, A-, B+, B-).
-   - Supply a suitable power source to the TB6600 driver (VCC and GND).
-
 **Configure the TB6600 DIP Switches** :
    - Set the DIP switches on the TB6600 driver as follows :
      - S1 : OFF
