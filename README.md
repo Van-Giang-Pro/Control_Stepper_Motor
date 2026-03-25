@@ -9,6 +9,7 @@
      - **DIR+** → 5V
      - **PUL-** → Pin 2
      - **PUL+** → 5V
+       
 **Configure the TB6600 DIP Switches**
    - Set the DIP switches on the TB6600 driver as follows :
      - S1 : OFF
